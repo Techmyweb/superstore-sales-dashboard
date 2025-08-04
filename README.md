@@ -20,7 +20,7 @@ This Excel dashboard visualizes sales data from a fictional Superstore between 2
 - Microsoft Excel 
 - Pivot Tables & Charts
 - Slicers
-- Basic Power Query for cleaning (if used)
+- Power Query for cleaning
 
 ## Created By
 Alfred Andrew | Last Updated: August 2, 2025
